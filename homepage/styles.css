@@ -1,0 +1,89 @@
+body{
+    background-image: url("pp1.png");
+    background-color:#cccccc;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+button{
+  border: 4px;
+  border-color: pink;
+  border-radius: 20px;
+  color: #ffc0cb;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+  font-size: 128px;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  cursor: pointer;
+  background-color: white;
+  width: 1800px;
+  height: 700px;
+
+}
+
+nav{
+  font-family: 'Pangolin', cursive;
+  font-size: 24px;
+}
+
+.container{
+  color: black;
+  text-align: center;
+  background-color: white;
+  opacity: 0.8;
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  width: 800px;
+  height: 400px;
+  font-family: 'Karla', sans-serif;
+
+}
+.containerrec{
+  background-color: #f8f8ff;
+  opacity: 0.6;
+  margin: auto;
+  color: black;
+  text-align: left;
+  font-family: 'Karla', sans-serif;
+  
+}
+.crt{
+  color: black;
+  opacity: 1.0;
+  margin-right: 25px;
+  margin-left: 25px;
+  text-align: left;
+  font-family: 'Karla', sans-serif;
+}
+
+.containerge{
+  color: black;
+  text-align: center;
+  display: block;
+
+  opacity: 1;
+  margin: auto;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  font-family: 'Karla', sans-serif;
+}
+
+.box{
+  text-align: center;
+  color: #f0f8ff;
+
+}
+.boxb{
+  Background-color: #f2e9de;;
+  height: 1px;
+  Display: block;
+  margin-top: 400px;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+  font-size: 1px;
+}
